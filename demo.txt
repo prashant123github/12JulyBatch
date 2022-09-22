@@ -10,6 +10,6 @@ Topics covered in syllabys till today are:
 String
 Methods
 collection framework
-DB etc.
+
 
 we need to update that file.
