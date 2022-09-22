@@ -10,6 +10,7 @@ Topics covered in syllabys till today are:
 String
 Methods
 collection framework
+Constructor
 
 
 we need to update that file.
