@@ -1,1 +1,15 @@
 This is demo file of 23 july 2022 batch from user.
+
+
+
+
+We are working on the Git functionality by user.
+
+
+Topics covered in syllabys till today are:
+String
+Methods
+collection framework
+DB etc.
+
+we need to update that file.
